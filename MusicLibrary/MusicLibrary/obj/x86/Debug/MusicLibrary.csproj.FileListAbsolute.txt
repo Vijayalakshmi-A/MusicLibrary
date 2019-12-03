@@ -1,0 +1,14 @@
+D:\Development\Test\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe
+D:\Development\Test\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.pdb
+D:\Development\Test\MusicLibrary\MusicLibrary\obj\x86\Debug\MusicLibrary.frmAddorSearchItems.resources
+D:\Development\Test\MusicLibrary\MusicLibrary\obj\x86\Debug\MusicLibrary.Properties.Resources.resources
+D:\Development\Test\MusicLibrary\MusicLibrary\obj\x86\Debug\MusicLibrary.csproj.GenerateResource.Cache
+D:\Development\Test\MusicLibrary\MusicLibrary\obj\x86\Debug\MusicLibrary.exe
+D:\Development\Test\MusicLibrary\MusicLibrary\obj\x86\Debug\MusicLibrary.pdb
+D:\Development\Test\MusicLibrary\MusicLibrary\bin\Debug\Interop.WMPLib.dll
+D:\Development\Test\MusicLibrary\MusicLibrary\bin\Debug\AxInterop.WMPLib.dll
+D:\Development\Test\MusicLibrary\MusicLibrary\obj\x86\Debug\Interop.WMPLib.dll
+D:\Development\Test\MusicLibrary\MusicLibrary\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Development\Test\MusicLibrary\MusicLibrary\obj\x86\Debug\MusicLibrary.csproj.ResolveComReference.cache
+D:\Development\Test\MusicLibrary\MusicLibrary\obj\x86\Debug\MusicLibrary.frmLogin.resources
+D:\Development\Test\MusicLibrary\MusicLibrary\obj\x86\Debug\MusicLibrary.frmSearch.resources
